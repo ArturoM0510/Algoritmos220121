@@ -1,3 +1,14 @@
 body {
     background-color: rgb(216, 213, 213);
 }
+
+header {
+    background-color: aqua;
+    height: 10vh;
+    text-align: center;
+    color: Black;
+}
+
+header>h1 {
+    font-size: 60px;
+}
