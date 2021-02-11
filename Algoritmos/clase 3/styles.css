@@ -35,6 +35,62 @@ main {
 #comidas-img-1>img {
     width: 50vw;
     height: 40vh;
+    transition: 1s;
+}
+
+#comidas-img-1>img:hover {
+    width: 55vw;
+    height: 45vh;
+    transition: 1s;
+}
+
+#comidas-img-1>figcaption {
+    font-size: 2rem;
+}
+
+#Española>h2 {
+    font-size: 2rem;
+    transition: 1s;
+}
+
+#Española>h2:hover {
+    background-color: brown;
+    transition: 1s;
+}
+
+.content-fig {
+    width: 50vw;
+    height: 45vh
+}
+
+#Española>ul>li {
+    font-size: 2rem;
+}
+
+#paella>img {
+    width: 40vw;
+    height: 35vh;
+}
+
+#paella>figcaption {
+    font-size: 2.5rem;
+}
+
+#China>h2 {
+    font-size: 2rem;
+}
+
+#China>ul>li {
+    font-size: 2rem;
+}
+
+#China>img {
+    width: 40vw;
+    height: 35vh;
+}
+
+#China>figcaption {
+    font-size: 2.5rem;
 }
 
 footer {
